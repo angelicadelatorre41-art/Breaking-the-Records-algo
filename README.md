@@ -1,1 +1,1 @@
-# Breaking-the-Records-algo
+# Breaking-the-Records-algo This program tracks how many times a player's game score breaks their highest and lowest records. It updates the record values as new scores appear and returns two numbers: the count of times the highest score was broken and the count of times the lowest score was broken.
